@@ -26,13 +26,13 @@ Pronouns: she/any
 ### Programming & Development
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=flat-green&logo=r&logoColor=white)
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=flat-green&logo=markdown&logoColor=white)
-![Python](https://img.shields.io/badge/Python-90C695?style=flat-green&logo=python&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=flat-green&logo=python&logoColor=white)
 ![Julia](https://img.shields.io/badge/-Julia-9558B2?style=flat-green&logo=julia&logoColor=white)
 
 ### Tools & Platforms
-![GitHub](https://img.shields.io/badge/GitHub-FFB6C1?style=flat-green&logo=github&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat-green&logo=notion&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-green&logo=github&logoColor=white)
 ![Google Sheets](https://img.shields.io/badge/Google%20Sheets-%2334A853?style=flat-green&logo=googlesheets&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat-green&logo=notion&logoColor=white)
 ![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=flat-green&logo=microsoft-office&logoColor=white)
 
 ![Firefox](https://img.shields.io/badge/Firefox-FF7139?style=flat-green&logo=Firefox-Browser&logoColor=white)
@@ -54,6 +54,12 @@ Pronouns: she/any
 
 </div>
 
+## Activities
 
+**#DatenDialog** #Data4Good as CorrelAid volunteer in Frankfurt (Main). More information [here](https://www.bertelsmann-stiftung.de/de/unsere-projekte/data-science/projektnachrichten/datendialog-frankfurt-maerz-2026).
+
+**#30NitesOfCode**: Check out my progress [here](https://www.codedex.io/@JeMaNd-r/30-nites-of-code).
+
+<img alt="Spot" src="https://www.codedex.io/images/code-nights/baby-neutral-dinosaur.gif" width="50" hspace="20"/>
 
 
