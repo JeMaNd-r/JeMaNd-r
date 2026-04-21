@@ -58,8 +58,4 @@ Pronouns: she/any
 
 **#DatenDialog** #Data4Good as CorrelAid volunteer in Frankfurt (Main). More information [here](https://www.bertelsmann-stiftung.de/de/unsere-projekte/data-science/projektnachrichten/datendialog-frankfurt-maerz-2026).
 
-**#30NitesOfCode**: Check out my progress [here](https://www.codedex.io/@JeMaNd-r/30-nites-of-code).
-
-<img alt="Spot" src="https://www.codedex.io/images/code-nights/baby-neutral-dinosaur.gif" width="50" hspace="20"/>
-
 
