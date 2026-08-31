@@ -146,6 +146,7 @@ Pronouns: she/any
   <summary>Ko-Koordination des Social Media Accounts der Arbeitsgruppe von 2022/05-2023/12</summary>
   - Instagram-Account der Experimentelle Interaktionsökologie (iDiv)
   - etwa 1 Post pro Woche und ~100 neue Follower:innen während der Koordination
+</details>
 <details>
   <summary>Beitrag bei Lange Nacht der Wissenschaften in Leipzig (iDiv) in 2021/06 & 2023/06</summary>
   - Planung und Umsetzung von Beiträgen, darunter Vorträge und Mitmachangebote zum Thema Bodenbiodiversität: Zersetzungsexperiment, Mikroskopie & Boden-Quiz
@@ -164,11 +165,11 @@ Pronouns: she/any
 
 ### Supervision-Erfahrung
 
-2025/07	Masterarbeit Betreuung, Hochschule Nordhausen. Open Science practices in Environmental Research
-2025/04	Bachelorarbeit Betreuung, Martin-Luther-Universität Halle (Saale). “Questionable Research Practices in Biodiversity Sciences and Ecology”
-2023/03	Bachelorarbeit Ko-Betreuung, Universität Leipzig. “Biogeographical patterns of fungal communities in European forests”
-2021/10	Bachelorarbeit Ko-Betreuung, Universität Leipzig. “Effects of Deforestation on the Earthworm Diversity of Brazil”
-2021/09	Bachelorarbeit Ko-Betreuung, Universität Leipzig. “Distribution and data of earthworm diversity in Germany”
+- 2025/07	Masterarbeit Betreuung, Hochschule Nordhausen. Open Science practices in Environmental Research
+- 2025/04	Bachelorarbeit Betreuung, Martin-Luther-Universität Halle (Saale). “Questionable Research Practices in Biodiversity Sciences and Ecology”
+- 2023/03	Bachelorarbeit Ko-Betreuung, Universität Leipzig. “Biogeographical patterns of fungal communities in European forests”
+- 2021/10	Bachelorarbeit Ko-Betreuung, Universität Leipzig. “Effects of Deforestation on the Earthworm Diversity of Brazil”
+- 2021/09	Bachelorarbeit Ko-Betreuung, Universität Leipzig. “Distribution and data of earthworm diversity in Germany”
 
 
  ## 🏆 Auszeichnungen und Stipendien
