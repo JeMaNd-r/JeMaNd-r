@@ -1,18 +1,19 @@
 ## About me, Romy :grin:
 Pronouns: she/any
 
-🔭 I’m currently looking for a job with
-- Problem solving
-- Coding
-- Communicating, and
-- Fun
+> [!IMPORTANT]
+> 🔭 I’m currently looking for a job with
+> - Problem solving
+> - Coding
+> - Communicating, and
+> - Fun
 
 ## What makes me unique
 - 👩🏻‍💻 Experienced R programmer with excellent skills in _tidyverse_ including _ggplot2_
 - 🌱 Passioned learner, recently of Python, Web technologies and JavaScript as well as SQL
 - 🎒 Coordinator of an award-winning [science communication project](https://www.idiv.de/de/transferpreis-fur-translating-soil-biodiversity/) to make kids familiar with soil biodiversity research
 - 🎓 Graduated Biology student with passion for communication and programming
-- 🧩 Puzzle and boardgame nerd - **I love riddles!** 
+- 🧩 Puzzle and boardgame nerd -[^1] **I love riddles!** 
 
 ## More about me
 - 👯 I’m working as a volunteer in [CorrelAid e.V.](https://correlaid.org/) and am helping to start a local chapter in Leipzig, Germany.
@@ -27,134 +28,181 @@ Pronouns: she/any
 
 ## Activities (in German)
 
-### Datenprojekte
-<details>
-  <summary>2026/07  -2026/08  Praktikum Backend-Entwicklung bei singularIT GmbH Leipzig</summary>
-  - Anwendung zur Abfrage von 3D-Drucker-Daten
-    - Erstellen von Datenmodellen mit Django & DRF [printer_dashboard](https://github.com/jemand-r/printer_dashboard)
-    - Verknüpfen der Backend-API mit Nuxt-Frontend [printer_frontend](https://github.com/jemand-r/printer_frontend)
-    - Anwenden von Dev. Standards (pre-commit, Unittesting, GitLab CI)
-  - Einblicke in Sprints & Projektmanagement
-  - Dokumentation verbessert: Wiki & [cookiecutter](https://github.com/singularit-de/cc-python/pull/8)
+### 1. Projekte
+
+#### Webentwicklung
+<details open>
+  <summary>Praktikum Backend-Entwicklung bei singularIT GmbH Leipzig vin 2026/07-2026/08</summary>
+  
+  * Anwendung zur Abfrage von 3D-Drucker-Daten
+    * Erstellen von Datenmodellen mit Django & DRF [printer_dashboard](https://github.com/jemand-r/printer_dashboard)
+    * Verknüpfen der Backend-API mit Nuxt-Frontend [printer_frontend](https://github.com/jemand-r/printer_frontend)
+    * Anwenden von Dev. Standards (pre-commit, Unittesting, GitLab CI)
+  * Einblicke in Sprints & Projektmanagement
+  * Dokumentation verbessert: Wiki & [cookiecutter](https://github.com/singularit-de/cc-python/pull/8)
 </details>  
 <details>
-  <summary>2024/10 - 2026/03  Datenvisualisierung von Beobachtungsflächen eines internationales Forschungsprojekt</summary>
-  - Erstellung interaktiver & statischer Weltkarten in R (ggplot2, leaflet)
-  - Programmierung: [SoilBON_map_2026](https://github.com/JeMaNd-r/SoilBON_map_2026)
-</details>
-<details>
-  <summary>2026/03 & 2026/09  Teilnahme an Hackathon-ähnlichem Data-Science-Event: DatenDialog in Frankfurt (Main)</summary>
-  - Mitarbeit an zwei Datenprojekten der “Gesellschaft für Klima und Demokratie”:
-    1. Konzeption und Zeitmanagement einer Übersicht kommunaler Klima-Räte und 
-    2. Konzeption einer zentralen Plattform für das Erstellen von Einwohneranträgen
-  - Infos zur Veranstaltung: [Webseite](https://www.bertelsmann-stiftung.de/de/unsere-projekte/data-science/projektnachrichten/datendialog-frankfurt-maerz-2026)
-</details>
-<details>
-  <summary>2022/11 - 2026/02  Forschungsprojekt Effektivität von Schutzgebieten für Bodenbiodiversität</summary>
-  - Analyse ökologischer Daten mittels eigens geschriebener Funktionen in R für Nearest-Neighbor Matching, Randomisierung; und Berechnung von Effektstärken 
-  - Alternativer Analyseansatz mit Bayesian random-intercept and random-slope Modellen in R (brms/Stan) inklusive model comparison
-  - Projekt: [Conservation_across_scales](https://github.com/JeMaNd-r/Conservation_across_scales)
-  - Wissenschaftliche Publikation: Zeiss et al. (2026) Global Ecology & Conservation. https://doi.org/10.1016/j.gecco.2026.e04052
-</details>
-<details>
-  <summary>2023/06 - 2026/02  Forschungsprojekt: Prioritätensetzung für einen effektiven Schutz der Bodenbiodiversität</summary>
-  - Aufbereitung von Daten unterschiedlicher Quellen, nämlich Sequenzierung, Remote Sensing & Modelling (Copernicus, ESDAC) und Beobachtung (GBIF, Edaphobase) in R
-  - Analyse ökologischer Daten mithilfe von Distribution Models (MaxEnt, Biomod) in R
-  - Priorisierung von Flächen basierend auf deren Relevanz für Bodenbiodiversität sowie bestehenden Schutzgebieten und gefährdenden Faktoren mittels R und Zonation 5
-  - Dokumentation des Analyse-Workflows mittels fachspezifischem Protokoll (ODMAP)
-  - Analyseskripte: [Atlas_Portugal](https://github.com/JeMaNd-r/Atlas_Portugal) 
-</details>
-<details>
-  <summary>2022/06 - 2024/10  Datenmanagement in europäischem Forschungsprojekt</summary>
-  - Zusammenführen verschiedener Datensätze: Klima, Geoinformation, Bodenökologie
-  - Anpassen, Aktualisieren und Erweitern von fremdem Code in R
-  - Koordination von Datenanfragen unter Berücksichtigung der Embargos per E-Mail
-  - Aufbereitung des Datensatzes für die Publikation über das European Soil Data Centre: https://esdac.jrc.ec.europa.eu/content/soil-function-data-measured-lucas-2018-sites-across-eu 
-  - Teilprojekt: [LUCAS_Database](https://github.com/JeMaNd-r/LUCAS_Database)
-</details>
-<details>
-  <summary>2021/08 - 2024/08  Forschungsprojekt: Modellierung der klimabedingten Verbreitungen europäischer Regenwürmer</summary>
-  - Aufbereitung von Daten unterschiedlicher Quellen, nämlich Beobachtung (GBIF, Edaphobase) und Remote Sensing & Modelling (Copernicus, ESDAC) in R & ArcGIS
-  - Analyse ökologischer Daten mithilfe von Distribution Models (MaxEnt, Biomod) in R
-  - Modellierung der Artenvorkommnisse unter 15 verschiedenen Klimaszenarien in R
-  - Dokumentation des Analyse-Workflows mittels fachspezifischem Protokoll (ODMAP)
-  - Interaktive Visualisierung der Verbreitungskarten mittels RShiny App: [Shiny-earthworm-distribution](https://github.com/JeMaNd-r/Shiny-earthworm-distribution)
-  - Projekt: [SoilBiodiversity](https://github.com/JeMaNd-r/SoilBiodiversity)
-  - Wissenschaftliche Publikation: Zeiss et al. (2023) Conservation Biology. https://doi.org/10.1111/cobi.14187
-</details>
-<details>
-  <summary>2024/07  Mitwirkung an Forschungsprojekt zur Modellierung ökologischer Nischen von Bodentieren</summary>
-  - Aufbereitung ökologischer Daten in R (tidyverse, terra)
-  - Modellierung mittels Principal Component Analysis (PCA) & Hierarchical Clustering in R
-  - Projekt: [FaunaServices](https://github.com/FaunaServices) Teilprojekt “scripts”, privat
-</details>
-<details>
-  <summary>2022/09  Mitwirkung an Forschungsprojekt zur Aufbereitung und -Extrapolation von Insekten-Daten</summary>
-  - Datenaufbereitung aus Exceltabelle in R (tidyverse)
-  - Extrapolation von Biomasse, Häufigkeit und Diversität der Insekten in R
-  - Zugehörige Publikation: https://doi.org/10.1016/j.cub.2023.09.012 [↗ Acknowledgements]
-</details>
-<details>
-  <summary>2021/09 - 2022/06  Forschungsprojekt (Masterarbeit): Status des Schutzes der Bodenbiodiversität auf versch. Ebenen</summary>
-  1. Textanalyse deutscher Naturschutz-Managementpläne
-    - Recherche & manueller Download der >3.000 Managementplänen der 16 Bundesländer
-    - Corpus-Erstellung und Moving-Window-Textanalyse von PDF-Dateien in R (tm, tidytext)
-    - Skripte zur Textanalyse: [ManagementPlans](https://github.com/JeMaNd-r/ManagementPlans/) 
-  2. Evaluation der Effektivität von Schutzgebieten auf Bodenbiodiversität
-    - Analyse ökologischer Daten mittels eigens geschriebener Funktionen in R für Nearest-Neighbor Matching, Randomisierung; und Berechnung von Effektstärken
-    - Skripte für Vergleichsanalysen: [ConservationLUCAS](https://github.com/JeMaNd-r/ConservationLUCAS) 
-  - Wissenschaftliche Publikation: Zeiss et al. (2022) Conservation Biology. https://doi.org/10.1111/cobi.13930
-</details>
-<details>
-  <summary>2021/02  Leitung eines Workshops “Solutions for conservation of soil biodiversity”</summary>
-  - Leiten einer Brainstorming-Diskussion mit ausgewählten Wissenschaftlern in Zoom um Lösungen für den Schutz der Bodenbiodiversität zusammenzutragen
-  - Wissenschaftliche Publikation: Zeiss et al. (2022) Conservation Biology. https://doi.org/10.1111/cobi.13930 
+  <summary>Coursera Weiterbildungen in Webentwicklung</summary>
+
+  * Grundlagen in HTML, CSS und JavaScript
+  * Python Grundlagen und Data Engineering
+  * Backend mit Django
+  * Frontend mit React
+  * Zertifikate: [LinkedIn](https://www.linkedin.com/in/romy-zeiss/)
 </details>
 
-### Wissenschaftskommunikation
+#### Datenvisualisierung
+
+<details>
+  <summary>Datenvisualisierung von Beobachtungsflächen eines internationales Forschungsprojekt von 2024/10-2026/03</summary>
+  
+  * Erstellung interaktiver & statischer Weltkarten in R (ggplot2, leaflet)
+  * Programmierung: [SoilBON_map_2026](https://github.com/JeMaNd-r/SoilBON_map_2026)
+</details>
+<details>
+  <summary>Forschungsprojekt: Modellierung der klimabedingten Verbreitungen europäischer Regenwürmer von 2021/08-2024/08</summary>
+  
+  * Aufbereitung von Daten unterschiedlicher Quellen, nämlich Beobachtung (GBIF, Edaphobase) und Remote Sensing & Modelling (Copernicus, ESDAC) in R & ArcGIS
+  * Analyse ökologischer Daten mithilfe von Distribution Models (MaxEnt, Biomod) in R
+  * Modellierung der Artenvorkommnisse unter 15 verschiedenen Klimaszenarien in R
+  * Dokumentation des Analyse-Workflows mittels fachspezifischem Protokoll (ODMAP)
+  * Interaktive Visualisierung der Verbreitungskarten mittels RShiny App: [Shiny-earthworm-distribution](https://github.com/JeMaNd-r/Shiny-earthworm-distribution)
+  * Projekt: [SoilBiodiversity](https://github.com/JeMaNd-r/SoilBiodiversity)
+  * Wissenschaftliche Publikation: Zeiss et al. (2023) Conservation Biology. https://doi.org/10.1111/cobi.14187
+</details>
+
+#### Datenanalyse
+
+<details>
+  <summary>Teilnahme an Hackathon-ähnlichem <b>Data-Science</b>-Event: DatenDialog in Frankfurt (Main) in 2026/03 & 2026/09</summary>
+  
+  * Mitarbeit an zwei Datenprojekten der “Gesellschaft für Klima und Demokratie”:
+    1. Konzeption und Zeitmanagement einer Übersicht kommunaler Klima-Räte und 
+    2. Konzeption einer zentralen Plattform für das Erstellen von Einwohneranträgen
+  * Infos zur Veranstaltung: [Webseite](https://www.bertelsmann-stiftung.de/de/unsere-projekte/data-science/projektnachrichten/datendialog-frankfurt-maerz-2026)
+</details>
+<details>
+  <summary>Forschungsprojekt Effektivität von Schutzgebieten für Bodenbiodiversität von 2022/11-2026/02</summary>
+  
+  * Analyse ökologischer Daten mittels eigens geschriebener Funktionen in R für Nearest-Neighbor Matching, Randomisierung; und Berechnung von Effektstärken 
+  * Alternativer Analyseansatz mit Bayesian random-intercept and random-slope Modellen in R (brms/Stan) inklusive model comparison
+  * Projekt: [Conservation_across_scales](https://github.com/JeMaNd-r/Conservation_across_scales)
+  * Wissenschaftliche Publikation: Zeiss et al. (2026) Global Ecology & Conservation. https://doi.org/10.1016/j.gecco.2026.e04052
+</details>
+<details>
+  <summary>Forschungsprojekt: Prioritätensetzung für einen effektiven Schutz der Bodenbiodiversität von 2023/06-2026/02</summary>
+  
+  * Aufbereitung von Daten unterschiedlicher Quellen, nämlich Sequenzierung, Remote Sensing & Modelling (Copernicus, ESDAC) und Beobachtung (GBIF, Edaphobase) in R
+  * Analyse ökologischer Daten mithilfe von Distribution Models (MaxEnt, Biomod) in R
+  * Priorisierung von Flächen basierend auf deren Relevanz für Bodenbiodiversität sowie bestehenden Schutzgebieten und gefährdenden Faktoren mittels R und Zonation 5
+  * Dokumentation des Analyse-Workflows mittels fachspezifischem Protokoll (ODMAP)
+  * Analyseskripte: [Atlas_Portugal](https://github.com/JeMaNd-r/Atlas_Portugal) 
+</details>
+<details>
+  <summary>Datenmanagement in europäischem Forschungsprojekt von 2022/06-2024/10</summary>
+  
+  * Zusammenführen verschiedener Datensätze: Klima, Geoinformation, Bodenökologie
+  * Anpassen, Aktualisieren und Erweitern von fremdem Code in R
+  * Koordination von Datenanfragen unter Berücksichtigung der Embargos per E-Mail
+  * Aufbereitung des Datensatzes für die Publikation über das European Soil Data Centre: https://esdac.jrc.ec.europa.eu/content/soil-function-data-measured-lucas-2018-sites-across-eu 
+  * Teilprojekt: [LUCAS_Database](https://github.com/JeMaNd-r/LUCAS_Database)
+</details>
+<details>
+  <summary>Forschungsprojekt: Modellierung der klimabedingten Verbreitungen europäischer Regenwürmer von 2021/08-2024/08</summary>
+  
+  * Aufbereitung von Daten unterschiedlicher Quellen, nämlich Beobachtung (GBIF, Edaphobase) und Remote Sensing & Modelling (Copernicus, ESDAC) in R & ArcGIS
+  * Analyse ökologischer Daten mithilfe von Distribution Models (MaxEnt, Biomod) in R
+  * Modellierung der Artenvorkommnisse unter 15 verschiedenen Klimaszenarien in R
+  * Dokumentation des Analyse-Workflows mittels fachspezifischem Protokoll (ODMAP)
+  * Interaktive Visualisierung der Verbreitungskarten mittels RShiny App: [Shiny-earthworm-distribution](https://github.com/JeMaNd-r/Shiny-earthworm-distribution)
+  * Projekt: [SoilBiodiversity](https://github.com/JeMaNd-r/SoilBiodiversity)
+  * Wissenschaftliche Publikation: Zeiss et al. (2023) Conservation Biology. https://doi.org/10.1111/cobi.14187
+</details>
+<details>
+  <summary>Mitwirkung an Forschungsprojekt zur Modellierung ökologischer Nischen von Bodentieren in 2024/07</summary>
+  
+  * Aufbereitung ökologischer Daten in R (tidyverse, terra)
+  * Modellierung mittels Principal Component Analysis (PCA) & Hierarchical Clustering in R
+  * Projekt: [FaunaServices](https://github.com/FaunaServices) Teilprojekt “scripts”, privat
+</details>
+<details>
+  <summary>Mitwirkung an Forschungsprojekt zur Aufbereitung und -Extrapolation von Insekten-Daten in 2022/09</summary>
+  
+  * Datenaufbereitung aus Exceltabelle in R (tidyverse)
+  * Extrapolation von Biomasse, Häufigkeit und Diversität der Insekten in R
+  * Zugehörige Publikation: https://doi.org/10.1016/j.cub.2023.09.012 [↗ Acknowledgements]
+</details>
+<details>
+  <summary>Forschungsprojekt (Masterarbeit): Status des Schutzes der Bodenbiodiversität auf versch. Ebenen in 2021/09-2022/06</summary>
+  
+  1. Textanalyse deutscher Naturschutz-Managementpläne
+    * Recherche & manueller Download der >3.000 Managementplänen der 16 Bundesländer
+    * Corpus-Erstellung und Moving-Window-Textanalyse von PDF-Dateien in R (tm, tidytext)
+    * Skripte zur Textanalyse: [ManagementPlans](https://github.com/JeMaNd-r/ManagementPlans/) 
+  2. Evaluation der Effektivität von Schutzgebieten auf Bodenbiodiversität
+    * Analyse ökologischer Daten mittels eigens geschriebener Funktionen in R für Nearest-Neighbor Matching, Randomisierung; und Berechnung von Effektstärken
+    * Skripte für Vergleichsanalysen: [ConservationLUCAS](https://github.com/JeMaNd-r/ConservationLUCAS) 
+  * Wissenschaftliche Publikation: Zeiss et al. (2022) Conservation Biology. https://doi.org/10.1111/cobi.13930
+</details>
+<details>
+  <summary>Leitung eines Workshops “Solutions for conservation of soil biodiversity” in 2021/02</summary>
+  
+  * Leiten einer Brainstorming-Diskussion mit ausgewählten Wissenschaftlern in Zoom um Lösungen für den Schutz der Bodenbiodiversität zusammenzutragen
+  * Wissenschaftliche Publikation: Zeiss et al. (2022) Conservation Biology. https://doi.org/10.1111/cobi.13930 
+</details>
+
+### 2. Wissenschaftskommunikation
 <details>
   <summary>Ko-Leitung eines Projekt für Wissenschaftskommunikation names "Translating Soil Biodiversity" von 2022/02-2025/12</summary>
-  - Koordination der Übersetzung von Artikeln der “Frontiers for Young Minds”-Sammlung zum Thema Bodenbiodiversität mithilfe von Google Forms, Google Sheets und Zoom; Pflege der Projektwebseite in TYP03
-  - Kooperation mit der Biodidaktik und Translatologie zum verbesserten Einsatz der Artikelsammlung im Schulunterricht, dadurch z.B. Mitarbeit am schulbezogenen Citizen Science Projekt “Bodenlos” bzw. “Was ist im Boden los?”
-  - Link zu den [Übersetzungen](https://www.idiv.de/en/young-minds/languages.html)
+  
+  * Koordination der Übersetzung von Artikeln der “Frontiers for Young Minds”-Sammlung zum Thema Bodenbiodiversität mithilfe von Google Forms, Google Sheets und Zoom; Pflege der Projektwebseite in TYP03
+  * Kooperation mit der Biodidaktik und Translatologie zum verbesserten Einsatz der Artikelsammlung im Schulunterricht, dadurch z.B. Mitarbeit am schulbezogenen Citizen Science Projekt “Bodenlos” bzw. “Was ist im Boden los?”
+  * Link zu den [Übersetzungen](https://www.idiv.de/en/young-minds/languages.html)
 </details>
 <details>
   <summary>Vorlesung bei der Kinderuni, Halle (Saale) in 2025/06 gemeinsam mit Elisabeth Bönisch</summary>
+  
   Vortragstitel: “Der Boden lebt! Entdeckt die verborgene Vielfalt unter der Erde”. ~250 Anmeldungen.
 </details>
 <details>
   <summary>Vorlesung bei der Kinderuni, Leipzig in 2024/11 gemeinsam mit Elisabeth Bönisch</summary>
+  
   Vortragstitel: “Der Boden lebt! Entdeckt die verborgene Vielfalt unter der Erde”. >600 Anmeldungen.
 </details>
 <details>
   <summary>Podcast “So(i)lid Science” zusammen mit Carlos A. Guerra zum Thema Bodenbiodiversität von 2022/07-2024/04</summary>
-  - Koordination und Konzeption von Diskussionsrunden mit Expert:innen
-  - seit 2023/04 als Podcasts “Solid Science”: 12 Episoden, 2000 Abrufe nach 1 Jahr (~150 Abrufe/Episode)
-  - [RSS-Feed](https://solidscience.podcaster.de/solidscience.rss)
+  
+  * Koordination und Konzeption von Diskussionsrunden mit Expert:innen
+  * seit 2023/04 als Podcasts “Solid Science”: 12 Episoden, 2000 Abrufe nach 1 Jahr (~150 Abrufe/Episode)
+  * [RSS-Feed](https://solidscience.podcaster.de/solidscience.rss)
 </details>
 <details>
   <summary>Beitrag auf der Leipziger Buchmesse in 2024/03: Vortrag mit Quiz</summary>
-  - Vertretung des iDiv am UNIBUND-Stand  
-  - Vorstellung des Projektes Translating Soil Biodiversity zusammen mit 2 Doktorandinnen
+  
+  * Vertretung des iDiv am UNIBUND-Stand  
+  * Vorstellung des Projektes Translating Soil Biodiversity zusammen mit 2 Doktorandinnen
 </details>
 <details>
   <summary>Beiträge beim Wissenschaftsfestival SPIN2023, Dresden, in 2024/03</summary>
-  - Vertretung des Instituts (iDiv, Universität Leipzig)
-  - Planung eigener Beiträge, u.a. pH-Experiment & Mikroskopie
+  
+  * Vertretung des Instituts (iDiv, Universität Leipzig)
+  * Planung eigener Beiträge, u.a. pH-Experiment & Mikroskopie
 </details>
 <details>
   <summary>Ko-Koordination des Social Media Accounts der Arbeitsgruppe von 2022/05-2023/12</summary>
-  - Instagram-Account der Experimentelle Interaktionsökologie (iDiv)
-  - etwa 1 Post pro Woche und ~100 neue Follower:innen während der Koordination
+  
+  * Instagram-Account der Experimentelle Interaktionsökologie (iDiv)
+  * etwa 1 Post pro Woche und ~100 neue Follower:innen während der Koordination
 </details>
 <details>
   <summary>Beitrag bei Lange Nacht der Wissenschaften in Leipzig (iDiv) in 2021/06 & 2023/06</summary>
-  - Planung und Umsetzung von Beiträgen, darunter Vorträge und Mitmachangebote zum Thema Bodenbiodiversität: Zersetzungsexperiment, Mikroskopie & Boden-Quiz
-  - Vertretung des iDiv zur öffentlichen Vorstellung der Arbeit von Wissenschaftler:innen
-  - Online in 2021: Erstellen einer virtuellen [Ausstellung](https://www.artsteps.com/view/60da1e34e7744c7ba6a8bcb3) mit insgesamt >1000 Aufrufen. 
+  
+  * Planung und Umsetzung von Beiträgen, darunter Vorträge und Mitmachangebote zum Thema Bodenbiodiversität: Zersetzungsexperiment, Mikroskopie & Boden-Quiz
+  * Vertretung des iDiv zur öffentlichen Vorstellung der Arbeit von Wissenschaftler:innen
+  * Online in 2021: Erstellen einer virtuellen [Ausstellung](https://www.artsteps.com/view/60da1e34e7744c7ba6a8bcb3) mit insgesamt >1000 Aufrufen. 
 </details>
 
-### Lehre
+### 3. Lehre
 
 - Ko-Betreuung eines Masterkurses, Universität Leipzig, 2024/05, 2023/05 und 2022/05. 1 Vorlesung in 2024. Vorbereitung des Kernmaterials für 1-tägige Einführung, Betreuung von Studierenden bei Forschungsprojekt für 1,5 Wochen, Beurteilung der Studierenden (Präsentation & Arbeitsweise)
 - Betreuung von Schülerpraktikant:innen am iDiv. 1 Tag in 2024/05. pH-Wert-Experiment.
@@ -163,7 +211,7 @@ Pronouns: she/any
 - R-Kurs für Anfänger:innen, Universität Leipzig, 2h in 2023/04. Grundlagenkurs zur Einführung in R/RStudio.
 - Ko-Betreuung eines Masterkurses, Universität Leipzig, 7h /Woche in 2021/04-2021/06. Vorbereitung von Kursmaterial, Unterstützung bei Datenaufnahme und Datenanalyse. 
 
-### Supervision-Erfahrung
+### 4. Supervision-Erfahrung
 
 - 2025/07	Masterarbeit Betreuung, Hochschule Nordhausen. Open Science practices in Environmental Research
 - 2025/04	Bachelorarbeit Betreuung, Martin-Luther-Universität Halle (Saale). “Questionable Research Practices in Biodiversity Sciences and Ecology”
@@ -223,3 +271,4 @@ Examples: [Frontend project](https://github.com/JeMaNd-r/train_frontend_blog) wi
 </div>
 
 
+[^1]: Dashed were inserted by a human. 
